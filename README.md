@@ -4,11 +4,11 @@ RnB_counter
 
 RnB_counter calculates the number of Reads and Bases in FASTA and FASTQ files (also gzipped)
 
-###Intsall
+###Install
 
-make
+'''make'''
 
 ###Usage
 
-RnB_counter in.seq
+'''RnB_counter sequence_file'''
 

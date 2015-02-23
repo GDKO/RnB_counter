@@ -6,9 +6,13 @@ RnB_counter calculates the number of Reads and Bases in FASTA and FASTQ files (a
 
 ###Install
 
-```make```
+```
+make
+```
 
 ###Usage
 
-```RnB_counter sequence_file```
+```
+RnB_counter sequence_file
+```
 

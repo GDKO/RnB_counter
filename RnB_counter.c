@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 	double i=0;
 	double b=0;
 	if (argc == 1) {
-		fprintf(stderr, "Usage: %s <in.seq>\n", argv[0]);
+		fprintf(stderr, "Usage: %s <sequence_file>\n", argv[0]);
 		return 1;
 	}
 	fp = gzopen(argv[1], "r");
